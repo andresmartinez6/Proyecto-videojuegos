@@ -1,0 +1,23 @@
+:root{
+    --negro:#000000;
+    --blanco:#ffffff;
+    --gris:#333333;
+    --colorBoton:#ff5252;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    padding-top: 6em;
+    padding-bottom: 3em;
+}
+
+#botonlogin{
+    background-color: var(--colorBoton);
+    border: var(--colorBoton);
+}
+
+
